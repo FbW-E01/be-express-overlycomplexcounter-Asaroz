@@ -1,0 +1,24 @@
+{
+  "name": "be-express-overlycomplexcounter-asaroz",
+  "version": "1.0.0",
+  "description": "Create an Express server, which will simply keep track of a single number. Your server will have four endpoints:",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/be-express-overlycomplexcounter-Asaroz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E01/be-express-overlycomplexcounter-Asaroz/issues"
+  },
+  "homepage": "https://github.com/FbW-E01/be-express-overlycomplexcounter-Asaroz#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
